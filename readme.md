@@ -14,6 +14,11 @@ This project is a solution for the Preqin Fullstack Technical Take-Home Task. It
 
 ![Commitments](preview2.png)
 
+#### Individual Repo to check commit history :
+
+- https://github.com/emon535/preqin-frontend
+- https://github.com/emon535/preqin-backend
+
 ## Backend
 
 ### Tech Stack
