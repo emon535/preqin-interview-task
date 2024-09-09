@@ -87,6 +87,20 @@ git clone https://github.com/your-repo/preqin-fullstack-interview-task.git
 cd preqin-fullstack-interview-task/frontend
 ```
 
+To start the React project using Yarn, follow these steps:
+
+1. **Install dependencies:**
+
+   ```bash
+   yarn install
+   ```
+
+2. **Start the app:**
+
+   ```bash
+   yarn start
+   ```
+
 The frontend will be running at `http://192.168.1.26:3000`
 
 ---
