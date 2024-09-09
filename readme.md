@@ -44,6 +44,12 @@ git clone https://github.com/your-repo/preqin-fullstack-interview-task.git
 cd preqin-fullstack-interview-task/backend
 ```
 
+active the virtual environment and run pip install then the following command:
+
+```bash
+uvicorn app.main:app --reload
+```
+
 ### API Endpoints
 
 - **GET /investors**: Retrieve a list of investors and their total commitments.
